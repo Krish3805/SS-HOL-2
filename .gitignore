@@ -1,0 +1,7 @@
+# Compiled binaries (everything in programs/ except sources)
+programs/*
+!programs/*.c
+
+# Temp files
+*.o
+core
